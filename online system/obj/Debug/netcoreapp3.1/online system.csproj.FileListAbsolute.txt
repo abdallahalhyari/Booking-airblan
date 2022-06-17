@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.exe
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.deps.json
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.runtimeconfig.json
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.dll
+C:\Users\user\Desktop\New folder (2)\online system\bin\Debug\netcoreapp3.1\online system.pdb
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Form1.resources
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.dll
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.pdb
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online system.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Form2.resources
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Form3.resources
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Form4.resources
+C:\Users\user\Desktop\New folder (2)\online system\obj\Debug\netcoreapp3.1\online_system.Form5.resources
